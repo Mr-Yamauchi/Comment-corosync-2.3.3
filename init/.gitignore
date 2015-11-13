@@ -1,0 +1,4 @@
+corosync
+corosync-notifyd
+corosync.service
+corosync-notifyd.service
